@@ -1,5 +1,9 @@
 package chapter2;
-
+/********
+ * Chapter 2: Operator and Statements
+ * Page 89 in the book
+ * Page 135 in the pdf
+ * ****/
 public class NestedLoop {
 
 	public static void main(String args[]){
